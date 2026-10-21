@@ -55,7 +55,7 @@ endmodule
 4-bit-Comparator/
 ├── comparator_4bit.v
 ├── comparator_4bit_tb.v
-└── four_bit_Comparator.md
+└── README.md
 ```
 
 ## Learning Outcomes
