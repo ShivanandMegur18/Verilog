@@ -3,7 +3,10 @@
 `timescale 1ns / 1ps
 
 
-module inverter (input A, output Y);
+module inverter (
+ input A,
+ output Y
+);
     
     supply1 VDD;
     supply0 GND;
