@@ -2,7 +2,7 @@
 
 ## Overview
 
-A 4-bit comparator is a combinational logic circuit that compares two 4-bit binary numbers, A and B, and determines whether A is greater than, less than, or equal to B.
+A 4-bit comparator is a Combinational logic circuit that compares two 4-bit binary numbers, A and B, and determines whether A is greater than, less than, or equal to B.
 
 ## Features
 
