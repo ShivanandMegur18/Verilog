@@ -7,8 +7,7 @@ module comparator_4_bit_tb();
 Comparator_4_bit uut(A, B, A_greater, A_less ,A_equal);
 
 initial begin
-    $monitor("A=%d B=%d | A>B=%b A<B=%b A==B=%b",
-              A, B, A_greater, A_less, A_equal);
+    $monitor("A=%d B=%d | A>B=%b A<B=%b A==B=%b", A, B, A_greater, A_less, A_equal);
 
     A = 4'd10; B = 4'd5;
     #10;
